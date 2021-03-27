@@ -16,7 +16,7 @@ Software Development, Test, and Maintenance_
 Responsibilities involve participating in the design, development, implementation, and verification of applications that interact with custom hardware
 to run test systems. Participation in design reviews, customer meetings, the creation of specification documents, acceptance test plans, etc.
 Extensive use of LabVIEW, Test Stand, C++  
-:comput
+
 
 **Software Engineering Intern at Lifesize - Austin, TX**  
 _Aug 2019 - Dec 2019  
