@@ -5,8 +5,8 @@
 📫 How to reach me: mackstarnes@gmail.com , [LinkedIn](https://www.linkedin.com/in/mack-s-ee/)  
 
 ## Personal Information
-  From: Austin, Texas | 26 June 1993  
-  Address: Pflugerville, Texas 78660  
+  From: Austin, Texas  
+  Location: Austin, Texas 78660  
   Phone: 512 657 9621  
   
 ### Work Experience  
