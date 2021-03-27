@@ -2,7 +2,7 @@
 - 💭 I’m interested in robotics, computer vision, EV's, battery tech, solar, amongst other things.
 - 🌱 I’m currently learning Python, Blockchain development, LabVIEW, etc.
 - 💞️ I’m looking to collaborate on iot, robotics, blockahin/distirbuted ledger, anything interesting.
-- 📫 How to reach me: mackstarnes@gmail.com
+- 📫 How to reach me: mackstarnes@gmail.com , [LinkedIn](https://www.linkedin.com/in/mack-s-ee/)
 
 <!---
 m-a-c-k/m-a-c-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
