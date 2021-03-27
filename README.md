@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on iot, robotics, blockahin/distirbuted ledger, anything interesting.
 - 📫 How to reach me: mackstarnes@gmail.com , [LinkedIn](https://www.linkedin.com/in/mack-s-ee/)
 
+![ms_10_20](https://user-images.githubusercontent.com/36854723/112728359-eb8d4300-8ef4-11eb-80c0-3f605e33b400.jpg)
 
-[Resume](https://github.com/m-a-c-k/m-a-c-k/files/6216045/ms_10_20.pdf)
 
 <!---
 m-a-c-k/m-a-c-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
