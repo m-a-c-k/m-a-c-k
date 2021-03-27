@@ -12,13 +12,13 @@
 ##### Software Engineer at Hiller Measurements - Austin, TX  
 _Jun 2020- Present  
 Software Development, Test, and Maintenance_   
-  - Responsibilities involve participating in the design, development, implementation, and verification of applications that interact with custom hardware
+- Responsibilities involve participating in the design, development, implementation, and verification of applications that interact with custom hardware
 to run test systems. Participation in design reviews, customer meetings, the creation of specification documents, acceptance test plans, etc.
 Extensive use of LabVIEW, Test Stand, C++  
 ##### Software Engineering Intern at Lifesize - Austin, TX  
 _Aug 2019 - Dec 2019  
 System Validation, debug, and automation efforts_  
-  -Responsibilities included support of the embedded software team in the testing, debug and validation of features of the various projects. I was tasked
+- Responsibilities included support of the embedded software team in the testing, debug and validation of features of the various projects. I was tasked
 with creating Python, Bash, and JavaScript scripts/programs that automated parts of the verification process. Worked with manufacturing engineers to
 ensure each component of the device was being appropriately validated at each level of assembly.  
 
