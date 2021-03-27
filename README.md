@@ -9,7 +9,7 @@
   Address: Pflugerville, Texas 78660  
   Phone: 512 657 9621  
 ### Work Experience  
-**Software Engineer at Hiller Measurements - Austin, TX** 
+**Software Engineer at Hiller Measurements - Austin, TX**  
 _Jun 2020- Present  
 Software Development, Test, and Maintenance_   
 Responsibilities involve participating in the design, development, implementation, and verification of applications that interact with custom hardware
