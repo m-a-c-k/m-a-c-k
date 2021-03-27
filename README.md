@@ -25,7 +25,7 @@ Responsibilities included support of the embedded software team in the testing, 
 with creating Python, Bash, and JavaScript scripts/programs that automated parts of the verification process. Worked with manufacturing engineers to
 ensure each component of the device was being appropriately validated at each level of assembly.  
 
-**Hardware Engineering Intern at Lifesize Austin, TX**
+**Hardware Engineering Intern at Lifesize Austin, TX**  
 _Aug 2018 - Aug 2019  
 Component Validation, HVT, debug._  
 Support the verification and hardware team’s efforts in design verification, debug, prototype, re-works, assembly, etc. Troubleshooting, BIOS configuration and other tasks.  
