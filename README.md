@@ -52,7 +52,7 @@ Ingram Engineering Scholarship - 2019/2020
 Courses in: Electronics I and II | Linear Algebra | VLSI | Calculus I-III
 Microprocessors | VHDL | Digial Logic | Signals and Systems | Circuits  
 
-Bachelor of Arts from Texas State University, San Marcos, TX
+Bachelor of Arts from Texas State University, San Marcos, TX  
 December 2015 : History, Secondary Education, Social Studies Certified
 
 <!---
