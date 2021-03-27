@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Mack.
 - 💭 I’m interested in robotics, computer vision, EV's, battery tech, solar, amongst other things.
 - 🌱 I’m currently learning Python, Blockchain development, LabVIEW, etc.
-- 💞️ I’m looking to collaborate on iot, robotics, blockahin/distirbuted ledger, anything interesting.
+- 🤖 I’m looking to collaborate on iot, robotics, blockahin/distirbuted ledger, anything interesting.
 - 📫 How to reach me: mackstarnes@gmail.com , [LinkedIn](https://www.linkedin.com/in/mack-s-ee/)
 
 ### Personal Information
@@ -9,21 +9,22 @@
   Address: Pflugerville, Texas 78660  
   Phone: 512 657 9621  
 #### Work Experience and Projects  
-_Software Engineer at Hiller Measurements - Austin, TX  
-Jun 2020- Present  
+##### Software Engineer at Hiller Measurements - Austin, TX  
+_Jun 2020- Present  
 Software Development, Test, and Maintenance_   
   - Responsibilities involve participating in the design, development, implementation, and verification of applications that interact with custom hardware
 to run test systems. Participation in design reviews, customer meetings, the creation of specification documents, acceptance test plans, etc.
 Extensive use of LabVIEW, Test Stand, C++  
-  - Aug 2019 - Software Engineering Intern at Lifesize - Austin, TX  
-Dec 2019 System Validation, debug, and automation efforts  
-Responsibilities included support of the embedded software team in the testing, debug and validation of features of the various projects. I was tasked
-with creating Python, Bash, and JavaScript scripts/programs that automated
-parts of the verification process. Worked with manufacturing engineers to
-ensure each component of the device was being appropriately validated at
-each level of assembly.
-Aug 2018 - Hardware Engineering Intern at Lifesize Austin, TX
-Aug 2019 Component Validation, HVT, debug.
+##### Software Engineering Intern at Lifesize - Austin, TX  
+_Aug 2019 - Dec 2019  
+System Validation, debug, and automation efforts_  
+  -Responsibilities included support of the embedded software team in the testing, debug and validation of features of the various projects. I was tasked
+with creating Python, Bash, and JavaScript scripts/programs that automated parts of the verification process. Worked with manufacturing engineers to
+ensure each component of the device was being appropriately validated at each level of assembly.  
+
+##### Hardware Engineering Intern at Lifesize Austin, TX
+_Aug 2018 - Aug 2019  
+Component Validation, HVT, debug._  
 Support the verification and hardware team’s efforts in design verification,
 debug, prototype, re-works, assembly, etc. Troubleshooting, BIOS configuration and other tasks.
 Projects Senior Project - Trash Collecting, Autonomous Robot
