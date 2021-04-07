@@ -1,7 +1,7 @@
 👋 Hello, I’m Mack.  
-💭 I’m interested in robotics, computer vision, EV's, battery tech, solar, et al.  
-🌱 I’m currently learning Python, Blockchain development, LabVIEW, etc.  
-🤖 I’m looking to collaborate on iot, robotics, blockahin/distirbuted ledger, anything interesting.  
+💭 Interested in robotics, computer vision, EV's, battery tech, solar, et al.  
+🌱 Currently developing my skills in Python, Go, JS, Blockchain development, LabVIEW, etc.  
+🤖 Looking to collaborate on iot, robotics, blockahin/distirbuted ledger, anything interesting.  
 📫 How to reach me: 
   - mackstarnes@gmail.com  
   - [LinkedIn](https://www.linkedin.com/in/mack-s-ee/)  
@@ -9,11 +9,10 @@
 ## Personal Information
   From: Austin, Texas  
   Location: Austin, Texas 78660  
-  Phone: 512 657 9621  
   
 ### Work Experience  
 **Software Engineer at Hiller Measurements - Austin, TX**  
-_Jun 2020- March 2021  
+_Jun 2020- April 2021  
 Software Development, Test, and Maintenance_   
 Responsibilities involve participating in the design, development, implementation, and verification of applications that interact with custom hardware
 to run test systems. Participation in design reviews, customer meetings, the creation of specification documents, acceptance test plans, etc.
