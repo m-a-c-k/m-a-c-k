@@ -1,36 +1,41 @@
-👋 Hello, I’m Mack.  
 💭 Interested in robotics, computer vision, EV's, battery tech, solar, et al.  
 🌱 Currently developing my skills in Python, Go, JS, Blockchain development, LabVIEW, etc.  
 🤖 Looking to collaborate on iot, robotics, blockahin/distirbuted ledger, anything interesting.  
 📫 How to reach me: 
   - mackstarnes@gmail.com  
-  - [LinkedIn](https://www.linkedin.com/in/mack-s-ee/)  
 
 ## Personal Information
-  From: Austin, Texas  
-  Location: Austin, Texas 78660  
+  From: Austin, Texas   
   
 ### Work Experience  
-**Software Engineer at Hiller Measurements - Austin, TX**  
+**Software Engineer | QA  
+StudioX - Austin, TX**
+May 2017 - present. 
+
+**Software Engineer  
+Hiller Measurements - Austin, TX**  
 _Jun 2020- April 2021  
 Software Development, Test, and Maintenance_   
 Responsibilities involve participating in the design, development, implementation, and verification of applications that interact with custom hardware
 to run test systems. Participation in design reviews, customer meetings, the creation of specification documents, acceptance test plans, etc.
 Extensive use of LabVIEW, Test Stand, C++  
 
-
-**Software Engineering Intern at Lifesize - Austin, TX**  
+**Software Engineering Intern
+Lifesize - Austin, TX**  
 _Aug 2019 - Dec 2019  
 System Validation, debug, and automation efforts_  
 Responsibilities included support of the embedded software team in the testing, debug and validation of features of the various projects. I was tasked
 with creating Python, Bash, and JavaScript scripts/programs that automated parts of the verification process. Worked with manufacturing engineers to
 ensure each component of the device was being appropriately validated at each level of assembly.  
 
-**Hardware Engineering Intern at Lifesize Austin, TX**  
+**Hardware Engineering Intern
+Lifesize Austin, TX**  
 _Aug 2018 - Aug 2019  
 Component Validation, HVT, debug._  
-Support the verification and hardware team’s efforts in design verification, debug, prototype, re-works, assembly, etc. Troubleshooting, BIOS configuration and other tasks.  
-
+Support the verification and hardware team’s efforts in design verification, debug, prototype, re-works, assembly, etc. Troubleshooting, BIOS configuration and other tasks.   
+  
+---  
+  
 ### Projects 
 **Senior Design Project - Trash Collecting, Autonomous Robot** 🔌
 - I contributed to our team’s senior design project of an autonomous robot by creating much of
@@ -43,7 +48,7 @@ USB protocols, in C++ as well. OpenCV.
 switches, to support hardware validation efforts. Created multiple small visual windows applications in C/C-sharp to access previously created test scripts, control devices and log test data
 
 ### Skills/Software Experience 🖥️
-- Software/ Python, C++, Bash, Verilog, C/C(sharp), JavaScript, Node, VHDL, Jenkins,
+- Python, Cypress, JS, Node, React, CI/CD, C++, Bash, Verilog, C/C(sharp), VHDL, Jenkins,
 - Experience OS, Docker, Agile, Atlassian, JIRA, Agile
 
 ### Education 📖
