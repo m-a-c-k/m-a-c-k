@@ -8,7 +8,7 @@
   From: Austin, Texas   
   
 ### Work Experience  
-**Software Engineer | QA  
+**Software Engineer
 StudioX - Austin, TX**
 May 2017 - present. 
 
