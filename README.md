@@ -8,9 +8,9 @@
   From: Austin, Texas   
   
 ### Work Experience  
-** Senior Software Engineer
+** Lead Back End Engineer
 StudioX - Austin, TX**
-May 2017 - present. 
+May 2021 - present. 
 
 **Software Engineer  
 Hiller Measurements - Austin, TX**  
